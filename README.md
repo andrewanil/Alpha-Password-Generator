@@ -4,7 +4,7 @@ A simple program that generates random passwords based on user preferences for t
 
 ## How to Use
 
-1. Run the program by executing `password_generator.py`.
+1. Run the program by executing `alpha_password_generator.py`.
 2. Follow the prompts to enter the number of letters, symbols, and numbers for your password.
 3. The program will display the generated password.
 
